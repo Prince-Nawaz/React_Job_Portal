@@ -1,0 +1,39 @@
+.list {
+    width: 50%;
+}
+
+.list li {
+    text-transform: capitalize;
+    display: block;
+    margin: 1rem 0;
+    padding: 1rem;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border-radius: 4px;
+    word-wrap: break-word;
+}
+
+.message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 999px) {
+    .list {
+        width: 90%;
+    }
+}

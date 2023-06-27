@@ -1,0 +1,10 @@
+.List {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+}
+
+.List li {
+    margin: 10px;
+}

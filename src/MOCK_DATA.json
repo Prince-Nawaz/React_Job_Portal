@@ -1,0 +1,50 @@
+[
+    {
+        "companyName": "Eleifend Nunc Incorporated",
+        "contact": "1-465-852-7895",
+        "description": "Phasellus vitae mauris sit amet lorem semper auctor. Mauris vel",
+        "requirements": "amet risus. Donec egestas. Aliquam nec",
+        "tags": "Research and Development, Angular, React",
+        "salary": "$50",
+        "applied": true,
+        "applicantDetails": [
+            "princenawaz007@gmail.com"
+        ]
+    },
+    {
+        "companyName": "Duis Gravida Industries",
+        "contact": "1-427-842-7171",
+        "description": "dapibus id, blandit at, nisi. Cum sociis natoque penatibus et",
+        "requirements": "vitae, sodales at, velit. Pellentesque ultricies dignissim lacus.",
+        "tags": "Finances, Typescript, Javascript",
+        "salary": "$45"
+    },
+    {
+        "companyName": "Auctor Vitae Aliquet Ltd",
+        "contact": "(609) 443-0361",
+        "description": "posuere at, velit. Cras lorem lorem, luctus ut, pellentesque eget,",
+        "requirements": "enim, gravida sit amet, dapibus id, blandit at,",
+        "tags": "Research and Development, Ajax, JSON, React",
+        "salary": "$30"
+    },
+    {
+        "companyName": "Duis Risus Corporation",
+        "contact": "(488) 954-5284",
+        "description": "sed libero. Proin sed turpis nec mauris blandit mattis. Cras",
+        "requirements": "sit amet, risus.",
+        "tags": "Asset Management, Svelte",
+        "salary": "$65"
+    },
+    {
+        "companyName": "Sed Auctor Odio Limited",
+        "contact": "1-744-386-0729",
+        "description": "mollis non, cursus non, egestas a, dui. Cras pellentesque. Sed",
+        "requirements": "nec, imperdiet nec, leo. Morbi neque tellus, imperdiet",
+        "tags": "Finances",
+        "salary": "$80",
+        "applied": true,
+        "applicantDetails": [
+            "princenawaz007@gmail.com"
+        ]
+    }
+]
